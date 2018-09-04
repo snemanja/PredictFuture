@@ -40,7 +40,7 @@ public class PredictMe {
 		datumRodjenja = (danRodjenja + "." + mesecRodjenja + "." + godinaRodjenja);
 		System.out.println("Vaš datum rođenja je: " + datumRodjenja);
 
-		// System.out.println("Vaš horoskopski znak je: ");
+		
 
 		System.out.println("Izaberite 1 ukoliko želite numerologiju ili 2 ukoliko želite horoskop: ");
 		Scanner izborIn = new Scanner(System.in);
